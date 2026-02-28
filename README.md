@@ -104,7 +104,7 @@ Password :demo1234
 
 
 ###  Dashboard
-![Dashboard]()
+![Dashboard](https://github.com/Sarithatammineni/HomeRenovation-Frontend/blob/main/Screenshot%202026-02-28%20222110.png?raw=true)
 
 ###  Projects Page
 ![Projects](https://github.com/Sarithatammineni/HomeRenovation-Frontend/blob/main/Screenshot%202026-02-28%20222135.png?raw=true)
@@ -113,7 +113,7 @@ Password :demo1234
 ![Expenses](https://github.com/Sarithatammineni/HomeRenovation-Frontend/blob/main/Screenshot%202026-02-28%20222212.png?raw=true)
 
 ###  Contractors Page
-![Contractors](./screenshots/contractors.png)
+![Contractors]()
 
 
 
