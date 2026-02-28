@@ -49,7 +49,7 @@ Follow these steps to run the project locally:
 
 ### Steps
 
- bash
+ ```bash
 
 # 1. Clone the repository
 git clone https://github.com/Sarithatammineni/HomeRenovation-Frontend.git
@@ -62,11 +62,14 @@ npm install
 
 # 4. Create a .env file in the root directory
 touch .env
-
+```
 Add the following to your `.env` file:
+```env
 
 VITE_API_URL=https://homerenovation-backend.onrender.com
+```
 
+```bash
 
 # 5. Start the development server
 
@@ -74,7 +77,7 @@ npm run dev
 ```
 
 The app will be running at `http://localhost:5173`
-
+---
 
 **Deployment Link**
 
@@ -90,7 +93,7 @@ The app will be running at `http://localhost:5173`
 
 > **Note:** The backend is hosted on Render's free tier. It may take 30–60 seconds to wake up on the first request after a period of inactivity.
 
-
+---
 
 ##  Login Credentials (Demo)
 
@@ -102,6 +105,7 @@ Password :demo1234
 
 > **Note:** You can also register a new account directly from the signup page.
 
+---
 
 ###  Dashboard
 ![Dashboard](https://github.com/Sarithatammineni/HomeRenovation-Frontend/blob/main/Screenshot%202026-02-28%20222110.png?raw=true)
@@ -113,13 +117,14 @@ Password :demo1234
 ![Expenses](https://github.com/Sarithatammineni/HomeRenovation-Frontend/blob/main/Screenshot%202026-02-28%20222212.png?raw=true)
 
 ###  Contractors Page
-![Contractors]()
+![Contractors](https://github.com/Sarithatammineni/HomeRenovation-Frontend/blob/main/Screenshot%202026-02-28%20222234.png?raw=true)
 
 
 
 ##  Project Structure
 
 
+```
 HomeRenovation-Frontend/
 ├── public/
 ├── src/
@@ -133,8 +138,9 @@ HomeRenovation-Frontend/
 ├── index.html
 ├── package.json
 └── vite.config.js
+```
 
-
+---
 
 
 ##  Available Scripts
@@ -149,7 +155,9 @@ npm run build
 
 npm run preview   
     - Preview production build locally
+```
 
+---
 
 
 ## Environment Variables
@@ -164,9 +172,7 @@ Description :Backend API base URL
 
 **Sarithatammineni**
 - GitHub: [@Sarithatammineni](https://github.com/Sarithatammineni)
-
-
-
+---
 
 ##  License
 
