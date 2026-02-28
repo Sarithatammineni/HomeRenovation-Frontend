@@ -174,7 +174,4 @@ Description :Backend API base URL
 - GitHub: [@Sarithatammineni](https://github.com/Sarithatammineni)
 ---
 
-##  License
-
-This project is open source and available under the [MIT License](LICENSE).
 
