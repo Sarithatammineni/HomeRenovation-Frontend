@@ -107,10 +107,10 @@ Password :demo1234
 <img width="1917" height="904" alt="Screenshot 2026-02-28 222110" src="https://github.com/user-attachments/assets/ff2f0b0e-99a6-46b7-9c54-67978568fc82" />
 
 ###  Projects Page
-![Projects](./screenshots/projects.png)
+![Projects](https://github.com/Sarithatammineni/HomeRenovation-Frontend/blob/main/Screenshot%202026-02-28%20222135.png?raw=true)
 
 ###  Expense Tracker
-![Expenses](./screenshots/expenses.png)
+![Expenses]()
 
 ###  Contractors Page
 ![Contractors](./screenshots/contractors.png)
