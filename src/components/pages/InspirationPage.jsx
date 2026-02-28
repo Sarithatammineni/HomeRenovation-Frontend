@@ -1,4 +1,3 @@
-// frontend/src/components/pages/InspirationPage.jsx
 import { useState, useEffect } from 'react';
 import { api } from '../../lib/api';
 import { Sparkles, ExternalLink, Search, Heart } from 'lucide-react';
@@ -12,8 +11,6 @@ const STYLES = [
   { id:'rustic',    label:'Rustic' },
   { id:'minimalist',label:'Minimalist' },
 ];
-
-// Curated local inspiration data (shown when no Supabase data)
 const CURATED = [
   { id:1, title:'Open Kitchen Concept', style:'modern', room:'Kitchen', description:'Clean lines with marble counters and integrated appliances create a seamless cooking space.', color:'#f5f0e8', accent:'#c17b3a' },
   { id:2, title:'Spa-Style Bathroom',   style:'minimalist', room:'Bathroom', description:'Floating vanities, rainfall showers, and neutral tones bring a luxury hotel feel home.', color:'#e8f0ed', accent:'#2d6a4f' },
